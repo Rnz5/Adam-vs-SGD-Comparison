@@ -1,7 +1,5 @@
 
 # Comparación SGD vs Adam (Optimizadores en Deep Learning)
-La visualizacion de Resultados **NO** está incluida en el codigo
-
 # Descripción
 - Comparación de algoritmos de optimización SGD y Adam en redes neuronales convolucionales para clasificación de dígitos MNIST
 
