@@ -7,3 +7,5 @@
 1. Sube "comparacion_optimizadores.ipynb" y "generador_graficos.ipynb" a Google Colab
 2. Ejecuta todas las celdas
 3. Mira los resultados
+
+(agregar graficos y resultados a readme)
