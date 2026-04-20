@@ -4,5 +4,6 @@
 - Comparación de algoritmos de optimización SGD y Adam en redes neuronales convolucionales para clasificación de dígitos MNIST
 
 # Ejecucion en Google Colab:
-1. Sube "comparacion_optimizadores.ipynb" y "generador_graficos.ipynb" a Colab
+1. Sube "comparacion_optimizadores.ipynb" y "generador_graficos.ipynb" a Google Colab
 2. Ejecuta todas las celdas
+3. Mira los resultados
